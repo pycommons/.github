@@ -13,6 +13,7 @@ Here are the list of projects that are part of this organization.
 1. [pycommons-base](https://github.com/pycommons/pycommons-base)
 2. [pycommons-lang](https://github.com/pycommons/pycommons-lang)
 3. [pycommons-collections](https://github.com/pycommons/pycommons-collections)
+4. [pycommons-tests](https://github.com/pycommons/pycommons-tests)
 
 ## Contributing
 
